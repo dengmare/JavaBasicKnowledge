@@ -1,3 +1,4 @@
+package javaThread;
 //test for start!
 class Print1_100Astroid extends Thread {  
     @Override  

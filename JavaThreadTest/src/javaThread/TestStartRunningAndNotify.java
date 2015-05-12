@@ -1,3 +1,4 @@
+package javaThread;
 
 public class TestStartRunningAndNotify {
 	static final int NUM_ATHLETES = 10;   

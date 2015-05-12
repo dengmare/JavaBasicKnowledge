@@ -1,3 +1,4 @@
+package javaThread;
 
 public class NonAtomic {
 	static int count = 0;  
